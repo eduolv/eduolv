@@ -24,8 +24,14 @@
   <img align="center" alt="Rafa-Ts" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
   <img align="center" alt="Rafa-Ts" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" />
   <img align="center" alt="Rafa-Ts" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  
+  <img align="center" alt="Rafa-Ts" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  
+ ![anime](https://user-images.githubusercontent.com/93171863/177063005-677e62eb-73cd-4ec7-a6c8-aae740e71703.gif)
+  
               
 </div>
+  
 
 
 ##
