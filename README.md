@@ -3,8 +3,8 @@
 
 <div align="center">
   <a href="https://github.com/eduolv">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduolv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduolv&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="42%" src="https://github-readme-stats.vercel.app/api?username=eduolv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduolv&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
