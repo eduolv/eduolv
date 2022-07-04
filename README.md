@@ -1,5 +1,5 @@
 <h1 align="center"> 
- 🔹Olá, eu sou o Eduardo Oliveira!
+ 🔹Olá, eu sou o <a href="https://www.linkedin.com/in/eduolv/"> Eduardo Oliveira! </a>
 </h1>
 <br>
 
