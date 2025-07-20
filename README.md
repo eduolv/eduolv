@@ -1,45 +1,75 @@
-<h1 align="center"> 
- 🔹Olá, eu sou o <a href="https://www.linkedin.com/in/eduolv/"> Eduardo </a>
-</h1>
-<br>
+<img align='right' height="294px" width="294px" src="https://user-images.githubusercontent.com/93171863/177063005-677e62eb-73cd-4ec7-a6c8-aae740e71703.gif">
 
-<div align="center" display flex>
-  <a href="https://github.com/eduolv">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eduolv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduolv&layout=compact&langs_count=7&theme=tokyonight"/>
+
+
+## 👋 Olá, que bom te ver por aqui!
+
+<img src="https://img.shields.io/static/v1?label=Overview&message=Eduardo&color=2764a5&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+
+<p>Atualmente estou em busca de novos desafios profissionais que me permitam crescer<br/> 🚀 Full-Stack Developer </p>
+
+## 👨‍💻 Sobre mim
+
+- 💼 Em busca de novas oportunidades.
+- ✍️ Desenvolvendo o inglês.
+- 🌱 Aprendendo mais sobre <img align='center' height="43px" width="43px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+- 🎓 Análise e Desenvolvimento de Sistemas.
+
+
+## 🧠 Experiência Profissional
+
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
+[<img align="left" height="92px" width="92px" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/D4D0BAQFZ3SNKk46xIw/company-logo_200_200/company-logo_200_200/0/1713897449356/ajung_solucoes_corporativas_logo?e=2147483647&v=beta&t=N0k9YLpmGIQCv_vGW8gQgCZ9oiu5CTSMpwdCGSHOqDw"/>](https://www.spacex.com/)
+
+**🚀 Full-Stack Developer (PL)** \
+[**Yung. Soluções**] • 🗓️ 2024 - 2025 \
+Linguagens & Tecnologias: `Javascript`,`ReactJS`, `APIs RESTful`, `NextJS`, `Node.js`, `PostgreSQL`, `PHP`\
+<br/>
+
+<img align="left" height="94px" width="94px" alt="Nubank" src="https://media.licdn.com/dms/image/v2/C4D0BAQExMTuBPn7zNg/company-logo_200_200/company-logo_200_200/0/1634750243572/prozeducacao_logo?e=2147483647&v=beta&t=bkQg0lKwUrrDdDqyT14H8wJPzyUucHI2IFokz3m9154">
+
+**💡Front-end Developer (JR)** \
+[**Proz Educação**] • 🗓️ 2021 - 2023 \
+Linguagens & Tecnologias: `ReactJS`, `Typescript`, `React Native`, `Figma`, `UX - Design System`\
+<br/>
+
+
+## 🛠️ Tech Stack & Ferramentas
+
+<div>
+
+<img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" />
+<img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+
 </div>
-
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Rafa-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />        
-  <img align="center" alt="Rafa-Ts" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> 
-  <img align="center" alt="Rafa-Ts" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Rafa-Ts" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Rafa-Ts" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
-          
-  <br>
-  <br>
-  <img align="center" alt="Rafa-Ts" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
-  <img align="center" alt="Rafa-Ts" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" />
-  <img align="center" alt="Rafa-Ts" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
                 
 </div>
-  
 
 
-##
+## 🌐 Onde me encontrar
 
-<div> 
-  <a href="https://www.linkedin.com/in/eduolv" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contato.eduoliveira.c@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
- ![Snake animation](https://github.com/eduolv/eduolv/blob/output/github-contribution-grid-snake.svg)
+<div>
 
- 
+<a href="https://www.linkedin.com/in/eduolv" target="_blank">
+  <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:contatoeduolv@gmail.com">
+  <img height="30px" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </div>
+
+
+---
+💬 *Fique à vontade para me chamar no LinkedIn ou por e-mail. Sempre aberto a conexões, projetos e boas conversas sobre tecnologia!*
 
