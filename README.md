@@ -3,9 +3,9 @@
 
 
 # 👋 Olá, que bom te ver por aqui!
-💼 Em busca de novas oportunidades.
- 
 
+ 
+**`💼 Em busca de novas oportunidades.`**
 ## 👨‍💻 Sobre mim
 
 - 🚀 Full-Stack Developer 
