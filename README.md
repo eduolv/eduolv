@@ -21,7 +21,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [<img align="left" height="92px" width="92px" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/D4D0BAQFZ3SNKk46xIw/company-logo_200_200/company-logo_200_200/0/1713897449356/ajung_solucoes_corporativas_logo?e=2147483647&v=beta&t=N0k9YLpmGIQCv_vGW8gQgCZ9oiu5CTSMpwdCGSHOqDw"/>](https://www.spacex.com/)
 
 **🚀 Full-Stack Developer (Pleno)** \
-[**Yung. Soluções**] • 🗓️ 2024 - 2025 \
+[**Yung. Soluções**] • 🗓️ 2023 - 2025 \
 Linguagens & Tecnologias: `Javascript`,`ReactJS`, `APIs RESTful`, `NextJS`, `Node.js`, `PostgreSQL`, `PHP`\
 <br/>
 
